@@ -3,4 +3,6 @@
 int main()
 {
   printf("hello.c\n");
+  printf("AAA\n");
+
 }
